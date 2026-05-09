@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Logs / outputs
+*.log
+eagle_debug_logs/
+outputs/
+
+# Data / datasets (按需)
+# data/
+# data_2/
+
+# Experiments / checkpoints (按你实际情况)
+# model/
+model_last/
+modelc/
+modelsvip_*/
+modelsvipnode/
+modelsviptv/
+modeltv/
+final/
+train/
+traineagle3/
+
+# Images / figs (如果不想传)
+figs/
+pics/
